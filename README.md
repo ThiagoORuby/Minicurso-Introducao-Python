@@ -24,7 +24,7 @@ Introdução ao significado de programação e linguagem de programação; Sinta
 Entendendo o significado de variáveis; Conhecendo os tipos primitivos; Operadores aritméticos e de atribuição; Manipulação de strings; funções internas importantes.
 
 - [Slides](/Aula_1/slide.pdf)
-- Exercícios
+- [Exercícios](https://docs.google.com/document/d/1iAiZkwRIG9Do8VocORGxXQayb_zMcBiIOOafxmPq1OM/edit?usp=sharing)
 
 ### Aula 02: Módulos, Condicionais e Funções
 
