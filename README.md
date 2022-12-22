@@ -1,5 +1,7 @@
 # Miniurso de Introdução à linguagem Python
 
+![capa](doc/capa.png)
+
 Minicurso voltado a apresentação dos conceitos básicos da linguagem python, fundamentais para a compreensão da lógica de programação.
 
 ### Sumário:
