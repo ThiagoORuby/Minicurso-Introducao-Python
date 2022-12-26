@@ -30,6 +30,7 @@ Entendendo o significado de variáveis; Conhecendo os tipos primitivos; Operador
 
 Entendendo o conceito de módulos (bibliotecas); Math, Random, Time; Estrutura de condição e operadores condicionais e lógicos; Funções e noções de escopo.
 
+- [Vídeo](https://drive.google.com/file/d/1gNQYI6I21FHckfe2dJaQ6H1ILJquT4rH/view?usp=share_link)
 - [Slides](/Aula_2/slide.pdf)
 - [Exercícios](https://docs.google.com/document/d/1KQ1tclyZ672e_DE8dyOM06YEqMgwMdEPTX4OL3Y-KIk/edit?usp=sharing)
 
