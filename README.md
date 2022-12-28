@@ -38,8 +38,8 @@ Entendendo o conceito de módulos (bibliotecas); Math, Random, Time; Estrutura d
 
 Entendendo os conceitos de estruturas de repetição e suas peculiaridades e formas de uso em Python.
 
-- Vídeo
-- Slides
+- [Vídeo](https://drive.google.com/file/d/1wHaUx7Qtg9qkZF34meHucfXVx-8nsp_f/view?usp=share_link)
+- [Slides](/Aula_3/slide.pdf)
 - Exercícios
 
 ### Aula 04: Tuplas, Listas e dicionários | Parte 1
