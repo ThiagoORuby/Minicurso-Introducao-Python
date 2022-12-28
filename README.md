@@ -36,6 +36,16 @@ Entendendo o conceito de módulos (bibliotecas); Math, Random, Time; Estrutura d
 
 ### Aula 03: Estruturas de repetição (For e While)
 
+Entendendo os conceitos de estruturas de repetição e suas peculiaridades e formas de uso em Python.
+
+- Vídeo
+- Slides
+- Exercícios
+
 ### Aula 04: Tuplas, Listas e dicionários | Parte 1
 
 ### Aula 05: Tuplas, Listas e dicionários | Parte 2
+
+### Colab das Aulas
+
+Disponível [aqui](https://colab.research.google.com/drive/1wwKNSZr9MUzynch6EiYc11_27b4YKvUO?usp=sharing)
