@@ -40,12 +40,21 @@ Entendendo os conceitos de estruturas de repetição e suas peculiaridades e for
 
 - [Vídeo](https://drive.google.com/file/d/1wHaUx7Qtg9qkZF34meHucfXVx-8nsp_f/view?usp=share_link)
 - [Slides](/Aula_3/slide.pdf)
-- Exercícios
+- [Exercícios](https://docs.google.com/document/d/15CMmbhA1HI9SGOAKbJID-L1NBSG9MRhwKobqx0wd45I/edit?usp=sharing)
 
 ### Aula 04: Tuplas, Listas e dicionários | Parte 1
 
+Entendendo estruturas compostas (formadas pelo agrupamento de dados), suas propriedades e operações possíveis.
+
+- [Slides](/Aula_4/slide.pdf)
+
 ### Aula 05: Tuplas, Listas e dicionários | Parte 2
 
+Entendendo estruturas compostas (formadas pelo agrupamento de dados), suas propriedades e operações possíveis.
+
+- [Vídeo](https://drive.google.com/file/d/17E1-2IIXNOBU6Od8qpZL6kbjHa13CNKE/view?usp=sharing)
+- [Slides](/Aula_5/slide.pdf)
+- Exercícios
 ### Colab das Aulas
 
 Disponível [aqui](https://colab.research.google.com/drive/1wwKNSZr9MUzynch6EiYc11_27b4YKvUO?usp=sharing)
